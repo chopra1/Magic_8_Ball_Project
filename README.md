@@ -1,1 +1,4 @@
 # Magic_8_Ball_Project
+In this project I will build a Magic Eight Ball using control flow in JavaScript.
+
+The user will be able to input a question, then our program will output a random fortune.
